@@ -11,6 +11,9 @@ skills.add("MySQL");
 skills.add("Continuous learning"); 
 skills.add("Teamwork"); 
 ```
+- 🔭 I am currently part of the FULP project "Escuela de programadores".Meet us here [Escuela de Programadores](https://escueladeprogramadores.fulp.es/).
+- 🌱 I’m currently learning Javascript,Express,
+- 🤔 I am looking for a company where I can do an internship.
 <!--
 
 **bqcount/bqcount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
